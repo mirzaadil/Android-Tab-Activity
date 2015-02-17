@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TabDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_day_tab">DayTabActivity</string>
+    <string name="title_activity_year_tab">YearTabActivity</string>
+    <string name="title_activity_month_tab">MonthTabActivity</string>
+
+</resources>
